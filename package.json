@@ -1,7 +1,7 @@
 {
   "name": "react-native-azure-intune-manager",
   "title": "React Native Azure Intune Manager",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "TODO",
   "main": "index.js",
   "scripts": {
@@ -9,8 +9,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/github_account/react-native-azure-intune-manager.git",
-    "baseUrl": "https://github.com/github_account/react-native-azure-intune-manager"
+    "url": "git+https://github.com/maheshgajadhar/react-native-azure-intune-manager.git",
+    "baseUrl": "https://github.com/maheshgajadhar/react-native-azure-intune-manager"
   },
   "keywords": [
     "react-native"
